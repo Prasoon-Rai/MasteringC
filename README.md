@@ -6,9 +6,8 @@ A small C game using `raylib`. The player controls a left-side paddle to bounce 
 
 \- macOS  
 \- `raylib` installed (Homebrew recommended):  
-\`\`\`bash
-brew install raylib
-\`\`\`
+`bash
+brew install raylib`
 
 ## Files
 
@@ -43,6 +42,6 @@ make
 
 ## Run
 
-\`\`\`bash
+`bash
 ./paddle_ball
-\`\`\`
+`
